@@ -1,9 +1,9 @@
 :root {
   --primary-font: "Inter", sans-serif;
-  --white: #ffffff;
+  --white: #fcf7f7;
   --white-with-transparency: rgb(255, 255, 255, 0.2);
   --neon-green: #c4f82a;
-  --grey: #333333;
+  --grey: #229fd4;
   --dark-grey: #1f1f1f;
   --dark-grey-with-transparency: rgba(31, 31, 31, 0.8);
   --black: #141414;
@@ -37,7 +37,7 @@ main {
   -webkit-backdrop-filter: blur(0.5rem);
   backdrop-filter: blur(0.5rem);
   border: 0.1rem solid var(--white-with-transparency);
-  border-radius: 1.2rem;
+  border-radius: 1.4rem;
   margin: 2.4rem;
   background-color: var(--dark-grey-with-transparency);
   display: grid;
